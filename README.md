@@ -1,7 +1,7 @@
 Jessica Selene
 ---------------------------------------------------------------------------
 
-------- Aspiring Spatial Data Scientist | Informatics Student -------------
+-------[ Aspiring Spatial Data Scientist | Informatics Student ]-------------
 
 *Astronomy · Programming · Planetary Exploration · Mathematics · English*
 
