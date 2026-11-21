@@ -1,5 +1,5 @@
-<Jessica Selene>
-
+Jessica Selene
+---------------------------------------------------------------------------
 
 ------- Aspiring Spatial Data Scientist | Informatics Student -------------
 
