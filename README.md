@@ -4,7 +4,7 @@ Jessica Selene
 ------- Aspiring Spatial Data Scientist | Informatics Student -------------
 
 *Astronomy · Programming · Planetary Exploration · Mathematics · English*
-------------------------------------------------------------------------------
+
 
 ---> About me: 
 - I am completing my technical education in Informatics, while continuing to develop the knowledge and skills needed to pursue my interests in spatial data science.
